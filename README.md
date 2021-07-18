@@ -1,1 +1,2 @@
-MERN and Socket io based messenger clone
+MERN and Socket io based messenger clone.
+
